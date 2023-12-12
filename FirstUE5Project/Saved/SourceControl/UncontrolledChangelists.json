@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"F:/AbirUE5Practice/FirstUE5Project/FirstUE5Project/Content/BlueprintsQuickStart/Blueprints/BP_CoinPickup.uasset",
-				"F:/AbirUE5Practice/FirstUE5Project/FirstUE5Project/Content/BlueprintsQuickStart/World/NewMap.umap"
+				"F:/AbirUE5Practice/FirstUE5Project/FirstUE5Project/Content/BlueprintsQuickStart/World/NewMap.umap",
+				"F:/AbirUE5Practice/FirstUE5Project/FirstUE5Project/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
 			]
 		}
 	]
